@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18BafE-2f7kYuTmjYCvhkKLE_vv2Syhvy#scrollTo=PflWc31Sq9BA)
 # NLP Model Comparison on IMDb Sentiment Dataset
 
 This project compares three NLP models for sentiment analysis using the IMDb movie review dataset.
